@@ -1,0 +1,14 @@
+.main1{
+display: grid;
+grid-template-columns: repeat(3,1fr);
+}
+.imgg{
+  height:200px;
+  margin-top: 20px;
+}
+
+.main2{
+  /* border:  1px solid blue; */
+  border-radius: 20px;
+  background-color: aquamarine;
+}
